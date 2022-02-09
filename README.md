@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @CookieScientist!
 
-I am a a school account for my main @Topscientist
-
-- 🚀 I am curren tly working on...
+- 🚀 I am currently working on...
   + SocialCabin
   + RevisonHub
   + A few othere things :}
